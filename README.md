@@ -1,6 +1,6 @@
 # 🎀 JackieP0w's Kawaii Slicer Connector 🎀
 
-**Author:** JackieP0w | **Version:** 1.8 (Kawaii Edition ✨) | **Compatibility:** Blender 3.6+ | Windows & macOS  
+**Author:** JackieP0w | **Version:** 1.8 | **Compatibility:** Blender 3.6+ | Windows & macOS  
 
 Hello, fellow maker! (〃＾▽＾〃) This is a super sweet Blender add-on designed to teleport your 3D models directly into **Bambu Studio** or **OrcaSlicer** with just one click! No more messy exporting and dragging files—let the magic do the work!
 
