@@ -19,7 +19,6 @@ Hello, fellow maker! (〃＾▽＾〃) This is a super sweet Blender add-on desi
 *   **Universal Friendship:** Perfectly compatible with both Windows and macOS.
 *   **Slicer Swapping:** While best friends with Bambu Studio, you can easily change the path in settings to use OrcaSlicer or any other supported slicer! 🔄
 *   **3MF Sparkles:** Uses the `.3mf` format to keep your object names and separate parts organized and happy.
-*   **Kawaii Inside:** Features custom ASCII art and friendly messages to make your 3D modeling sessions more cheerful! (✿◡‿◡)
 
 ## 🐾 Installation
 
